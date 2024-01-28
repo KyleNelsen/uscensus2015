@@ -3,7 +3,7 @@
 ## Project: Build Data Dashboards
 
 ### Overview
-This is my project for the Data Visualization part of the Udacity Data Analytics Nanodegree. It involves taking a dataset, creating 3 visualizations including one dashboard and gathering insights from them.
+This is my project for the Data Visualization part of the Udacity Data Analytics Nanodegree. It involves taking a dataset, creating 3 visualizations including one dashboard using Tableau and gathering insights from them.
 
 ### Files
 - Images - folder containing screenshots of visualizations, links to visualizations in pdf.
